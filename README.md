@@ -15,7 +15,7 @@ Power BI Service is the online version of Microsofts Power BI.  This version of 
 
 
 ### Setup
-The first step for this tutorial is getting on to Power BI Service.  Navigate to app.powerbi.com and login using your brock id to login.  Next, right click on [This Link]() and save as... 
+The first step for this tutorial is getting on to Power BI Service.  Navigate to app.powerbi.com and login using your brock id to login.  Next, right click on [This Link](Sample_Data.xlsx) and save as... 
 
 ### Second Header
 
