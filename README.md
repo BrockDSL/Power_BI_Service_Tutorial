@@ -15,11 +15,16 @@ Power BI Service is the online version of Microsofts Power BI.  This version of 
 
 
 ### Setup
-The first step for this tutorial is getting on to Power BI Service.  Navigate to app.powerbi.com and login using your brock id to login.  Next, right click on [This Link](Sample_Data.xlsx) and save as... 
+The first step for this tutorial is getting on to Power BI Service.  Navigate to app.powerbi.com and login using your brock id to login.  Once you have logged in click on the "new look" slider at the top of the screen.  You are welcome to use the old look if you prefer but be aware that your screen may not look like the screenshots in this tutorial and the location of some menus are different.   Next, right click on [This Link](Sample_Data.xlsx) and select "Save as..." and save the file to your computer.
 
-### Second Header
+### Getting Data
+Click on the "Get Data" button at the bottom right of the scree.  Under the "Create new content" heading select "Get" under files.  Choose "Local File" and choose the sample dataset.  Click the "Import" button and your data will now be available in Power BI.
 
-Content
+### Reports
+
+Reports in Power BI are where you will spend most of your time building visualizations and looking at the data.  Navigate to your workspace by clicking "My Workspace" on the left menu.  Click on the "Datasets" tab and find your sample data.  To create a new report from your dataset, click on the bar graph icon under the actions header as seen below.
+
+![Create Report Button][scrn1]
 
 ### Etc.
  
@@ -37,3 +42,4 @@ Content
 <!--- Please use reference style images so that it is easier to update pictures later --->
 
 [dsllogo]: dsl_logo.png
+[scrn1]: pbi_img1.png
