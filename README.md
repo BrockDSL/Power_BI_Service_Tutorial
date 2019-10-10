@@ -26,6 +26,9 @@ Reports in Power BI are where you will spend most of your time building visualiz
 
 ![Create Report Button][scrn1]
 
+You should now be in the Report View with your data loaded.  On the right hand side you will see three menus: "Filters", "Visualizations", and "Fields".
+
+Fields is the area where you determine wich columns of data will be included in your visualizations.  The Visualizations menu is where you add new visualizations to your report and edit their attributes.  
 ### Etc.
  
  
