@@ -28,7 +28,10 @@ Reports in Power BI are where you will spend most of your time building visualiz
 
 You should now be in the Report View with your data loaded.  On the right hand side you will see three menus: "Filters", "Visualizations", and "Fields".
 
-Fields is the area where you determine wich columns of data will be included in your visualizations.  The Visualizations menu is where you add new visualizations to your report, change what type of visualization is being used in the selected tile, and edit the attributes of the selected visualization.  Filters are used to narrow down the focus in the selected tile so that you can look at data from select rows instead of entire columns.  
+Fields is the area where you determine wich columns of data will be included in your visualizations.  The Visualizations menu is where you add new visualizations to your report, change what type of visualization is being used in the selected tile, and edit the attributes of the selected visualization.  Filters are used to narrow down the focus in the selected tile so that you can look at data from select rows instead of entire columns.
+
+![Adjustment Menu's][scrn2]
+
 ### Etc.
  
  
@@ -46,3 +49,4 @@ Fields is the area where you determine wich columns of data will be included in 
 
 [dsllogo]: dsl_logo.png
 [scrn1]: pbi_img1.png
+[scrn2]: pbi_img2.png
