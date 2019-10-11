@@ -32,9 +32,14 @@ Fields is the area where you determine wich columns of data will be included in 
 
 ![Adjustment Menu's][scrn2]
 
-To create a visualization, select the type that you want to make from the visualizations menu, select the data that you want to be used in the visualization, and adjust the size of the newly created tile by dragging the corners of the box.  In the example below we created a pie chart containing the sales per country and resized it to be visible.
+To create a visualization, select the type that you want to make from the visualizations menu, select the data that you want to be used in the visualization, and adjust the size of the newly created tile by dragging the corners of the box.  In the example below we created a pie chart containing the sales per country and resized it to be visible.  Another way to create a visualization is to select the data first and let Power BI decide what form is best suited to the type of data that you have selected.  To make another visualization, click on an empty space in your report so that nothing is selected, and the go through the steps again.  The contents of a visualization can be changed by selecting it (click on the white space in the tile) and then changing your selections in the Fields menu.
 
 ![First Visualization][scrn3]
+
+
+
+
+
 
 ### Etc.
  
