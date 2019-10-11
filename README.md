@@ -32,6 +32,10 @@ Fields is the area where you determine wich columns of data will be included in 
 
 ![Adjustment Menu's][scrn2]
 
+To create a visualization, select the type that you want to make from the visualizations menu, select the data that you want to be used in the visualization, and adjust the size of the newly created tile by dragging the corners of the box.  In the example below we created a pie chart containing the sales per country and resized it to be visible.
+
+![First Visualization][scrn3]
+
 ### Etc.
  
  
@@ -50,3 +54,4 @@ Fields is the area where you determine wich columns of data will be included in 
 [dsllogo]: dsl_logo.png
 [scrn1]: pbi_img1.png
 [scrn2]: pbi_img2.png
+[scrn3]: pbi_img3.png
