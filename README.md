@@ -40,6 +40,14 @@ To focus your visualizations on a more specific subject within the data selected
 
 ![Filtered Data][scrn4]
 
+Another way to create visualizations in Power BI is to ask the built in AI to construct them based on keywords in questions.  To do this, select the "Ask a question" button from the top menu bar and type what you want the new visualization to show.  The AI can understand a reasonable level of correctly spelled terminology though best practice is to begin with the type of visualization you would like to see and then follow with the contents.  If you do not specify a type it will choose one for you.
+
+![Question Visualization][scrn5]
+
+Once you have created all of the visualizations that you need, adjust their apearance by selecting each tile, clicking on the paint roller icon in the Visualizations menu, and adjusting settings as needed.  Ensure that all labels are easily readable and that the colors used makes sense with your data.
+
+![Adjust Settings][scrn6]
+
 
 
 
