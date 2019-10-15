@@ -36,7 +36,9 @@ To create a visualization, select the type that you want to make from the visual
 
 ![First Visualization][scrn3]
 
+To focus your visualizations on a more specific subject within the data selected from the Fields menu, we use the drop down lists in the Filters menu.  By using filters you can compare specific sections of your data more easily.
 
+![Filtered Data][scrn4]
 
 
 
@@ -60,3 +62,7 @@ To create a visualization, select the type that you want to make from the visual
 [scrn1]: pbi_img1.png
 [scrn2]: pbi_img2.png
 [scrn3]: pbi_img3.png
+[scrn4]: pbi_img4.png
+[scrn5]: pbi_img5.png
+[scrn6]: pbi_img6.png
+[scrn7]: pbi_img7.png
