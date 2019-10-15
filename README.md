@@ -48,10 +48,13 @@ Once you have created all of the visualizations that you need, adjust their apea
 
 ![Adjust Settings][scrn6]
 
+After adjusting your visualizations to your liking, save your report by clicking the save icon at the top right of the screen (above the Fields menu) and naming your report.  Once your report is saved you can start using the visualizations it contains in Dashboards.  To add a visualization to a dashboard click on the push-pin icon at the top right of that tile and either selecting an existing dashboard to add to or create a new dashboard.
+
+
+![New Dashboard][scrn7]
 
 
 
-### Etc.
  
  
  
