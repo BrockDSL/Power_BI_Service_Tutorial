@@ -54,9 +54,9 @@ After adjusting your visualizations to your liking, save your report by clicking
 ![New Dashboard][scrn7]
 
 
-
+Once you have added the tiles that you want from your report you can either go immediately to the dashboard or you can check for other useful tiles using the Quick Insights tool.  To access this tool click on the "My Workspace" option in the lefthand menu, go to the "Reports" tab, and click the "Quick Insights" button on your report (small lightbulb icon).
  
- 
+ ![Quick Insights][scrn8]
  
 
 
@@ -77,3 +77,8 @@ After adjusting your visualizations to your liking, save your report by clicking
 [scrn5]: pbi_img5.png
 [scrn6]: pbi_img6.png
 [scrn7]: pbi_img7.png
+[scrn8]: pbi_img8.png
+[scrn9]: pbi_img9.png
+[scrn10]: pbi_img10.png
+[scrn11]: pbi_img11.png
+[scrn12]: pbi_img12.png
