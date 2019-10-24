@@ -59,7 +59,9 @@ Once you have added the tiles that you want from your report you can either go i
  ![Quick Insights][scrn8]
  
 
+Quick Insights are an excellent tool for getting a brief overview of your data and potentially answering questions that you might have before you even ask them.  You can add a tile from your Quick Insights to your dashboard the same way you did in reports, the pushpin button at the top right of the tile.
 
+Once you have added all of the tiles that you want to use for your dashboard, navigate to it by clicking "My Workspaces" and selecting the dashboard you created.
 
 
 
