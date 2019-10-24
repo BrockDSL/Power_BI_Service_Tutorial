@@ -61,7 +61,13 @@ Once you have added the tiles that you want from your report you can either go i
 
 Quick Insights are an excellent tool for getting a brief overview of your data and potentially answering questions that you might have before you even ask them.  You can add a tile from your Quick Insights to your dashboard the same way you did in reports, the pushpin button at the top right of the tile.
 
-Once you have added all of the tiles that you want to use for your dashboard, navigate to it by clicking "My Workspaces" and selecting the dashboard you created.
+Once you have added all of the tiles that you want to use for your dashboard, navigate to it by clicking "My Workspaces" and selecting the dashboard you created.  The primary purpose of a dashboard is to give a clean view of your data in an easy to navigate way.  Dashboards also give access to the "Ask Questions" tool.  This tool is a combination of the Quick Insights AI and the AI we used previously to build visualizations.  This allows you to ask questions of your data as well but it also suggests questions that you might ask.  Access it by clicking the "Ask a question about your data" button at the top left of the dashboard.
+
+T enhance the experience of your dashboard add text and media tiles by clicking the "..." button on the top menu and selecting "Add tile" and then filling out the form for the tile you want.
+
+Once the dashboard is set up how you like, you can print it using the "Export" button on the top menu or share it if you have a Power BI Pro license by clicking the "Share" button.
+
+
 
 
 
