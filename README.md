@@ -65,7 +65,7 @@ Once you have added all of the tiles that you want to use for your dashboard, na
 
 T enhance the experience of your dashboard add text and media tiles by clicking the "..." button on the top menu and selecting "Add tile" and then filling out the form for the tile you want.
 
-Once the dashboard is set up how you like, you can print it using the "Export" button on the top menu or share it if you have a Power BI Pro license by clicking the "Share" button.
+Once the dashboard is set up how you like, you can print it or save it as a PDF by using the "Export" button on the top menu or share it if you have a Power BI Pro license by clicking the "Share" button.
 
 
 
