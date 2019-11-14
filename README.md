@@ -15,7 +15,7 @@ Power BI Service is the online version of Microsofts Power BI.  This version of 
 
 
 ### Setup
-The first step for this tutorial is getting on to Power BI Service.  Navigate to [app.powerbi.com](https://app.powerbi.com/home) and login using your brock id to login.  Once you have logged in click on the "new look" slider at the top of the screen.  You are welcome to use the old look if you prefer but be aware that your screen may not look like the screenshots in this tutorial and the location of some menus are different.   Next, right click on [This Link](Sample_Data.csv) and select "Save as..." and save the file to your computer.
+The first step for this tutorial is getting on to Power BI Service.  Navigate to [app.powerbi.com](https://app.powerbi.com/home) and login using your brock id to login.  Once you have logged in click on the "new look" slider at the top of the screen.  You are welcome to use the old look if you prefer but be aware that your screen may not look like the screenshots in this tutorial and the location of some menus are different.   Next, click on [This Link](Sample_Data.xlsx) and download the file to your computer.
 
 ### Getting Data
 Click on the "Get Data" button at the bottom right of the scree.  Under the "Create new content" heading select "Get" under files.  Choose "Local File" and choose the sample dataset.  Click the "Import" button and your data will now be available in Power BI.
