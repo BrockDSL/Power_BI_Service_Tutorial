@@ -2,12 +2,12 @@
 
 
 # Power BI Service
-Power BI Service is the online version of Microsoft[']s Power BI.  This version of the software is not as versatile as Power BI Desktop but it still provides powerful data visualization and analysis too[ls?] and can be used to build both reports and dashboards.  Access to both the desktop version and online version of Power BI is available to Brock University students as part of their Office 365 subscription.  This tutorial will walk you through the following steps:
+Power BI Service is the online version of Microsoft's Power BI.  This version of the software is not as versatile as Power BI Desktop but it still provides powerful data visualization and analysis tools and can be used to build both reports and dashboards.  Access to both the desktop version and online version of Power BI is available to Brock University students as part of their Office 365 subscription.  This tutorial will walk you through the following steps:
 1. Importing Data
 2. Creating a report with your data
 3. Making visualizations with your data
 4. Using Filters to focus on certain aspects of the data
-5. Asking question[s] of your data using the built in AI
+5. Asking questions of your data using the built in AI
 6. Making a dashboard out of your visualizations
 7. Using the Quick Insights tool
 8. Editing your Dashboard with tiles
@@ -15,10 +15,10 @@ Power BI Service is the online version of Microsoft[']s Power BI.  This version 
 
 
 ### Setup
-The first step for this tutorial is getting on to Power BI Service.  Navigate to [app.powerbi.com](https://app.powerbi.com/home) and login using your brock id[.] to login[remove "to login"].  Once you have logged in click on the "new look" slider at the top of the screen.  You are welcome to use the old look if you prefer but be aware that your screen may not look like the screenshots in this tutorial and the location of some menus are different.   Next, click on [This Link](Sample_Data.xlsx) and then click "download" to get the file on your computer.
+The first step for this tutorial is getting on to Power BI Service.  Navigate to [app.powerbi.com](https://app.powerbi.com/home) and login using your brock id.  Once you have logged in click on the "new look" slider at the top of the screen.  You are welcome to use the old look if you prefer but be aware that your screen may not look like the screenshots in this tutorial and the location of some menus are different.   Next, click on [This Link](Sample_Data.xlsx) and then click "download" to get the file on your computer.
 
 ### Getting Data
-Click on the "Get Data" button at the bottom right of the scree[n].  Under the "Create new content" heading select "Get" under files.  Choose "Local File" and choose the sample dataset.  Click the "Import" button and your data will now be available in Power BI.
+Click on the "Get Data" button at the bottom right of the screen.  Under the "Create new content" heading select "Get" under files.  Choose "Local File" and choose the sample dataset.  Click the "Import" button and your data will now be available in Power BI.
 
 ### Reports
 
@@ -28,7 +28,7 @@ Reports in Power BI are where you will spend most of your time building visualiz
 
 You should now be in the Report View with your data loaded.  On the right hand side you will see three menus: "Filters", "Visualizations", and "Fields".
 
-Fields is the area where you determine w[h]ich columns of data will be included in your visualizations.  The Visualizations menu is where you add new visualizations to your report, change what type of visualization is being used in the selected tile, and edit the attributes of the selected visualization.  Filters are used to narrow down the focus in the selected tile so that you can look at data from select rows instead of entire columns.
+Fields is the area where you determine which columns of data will be included in your visualizations.  The Visualizations menu is where you add new visualizations to your report, change what type of visualization is being used in the selected tile, and edit the attributes of the selected visualization.  Filters are used to narrow down the focus in the selected tile so that you can look at data from select rows instead of entire columns.
 
 ![Adjustment Menu's][scrn2]
 
@@ -40,11 +40,11 @@ To focus your visualizations on a more specific subject within the data selected
 
 ![Filtered Data][scrn4]
 
-Another way to create visualizations in Power BI is to ask the built in AI to construct them based on keywords in questions.  To do this, select the "Ask a question" button from the top menu bar and type what you want the new visualization to show.  The AI can understand a reasonable level of correctly spelled terminology[,] though best practice is to begin with the type of visualization you would like to see and then follow with the contents.  If you do not specify a type it will choose one for you.
+Another way to create visualizations in Power BI is to ask the built in AI to construct them based on keywords in questions.  To do this, select the "Ask a question" button from the top menu bar and type what you want the new visualization to show.  The AI can understand a reasonable level of correctly spelled terminology, though best practice is to begin with the type of visualization you would like to see and then follow with the contents.  If you do not specify a type it will choose one for you.
 
 ![Question Visualization][scrn5]
 
-Once you have created all of the visualizations that you need, adjust their ap[p]earance by selecting each tile, clicking on the paint roller icon in the Visualizations menu, and adjusting settings as needed.  Ensure that all labels are [legible instead of easily readable?] easily readable and that the colo[u]rs used makes sense with your data.[perhals: "the colours are suitable" or "to your liking" instead of makes sense with your data?]
+Once you have created all of the visualizations that you need, adjust their appearance by selecting each tile, clicking on the paint roller icon in the Visualizations menu, and adjusting settings as needed.  Ensure that all labels are legible and that the colours are suitable.
 
 ![Adjust Settings][scrn6]
 
